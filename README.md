@@ -1,4 +1,4 @@
-# Distributed-Computing: Topology Management In Peer-to-Peer Systems
+# Distributed-Computing: Topology Management In Peer-to-Peer Systems (also known as Jelasity and Babaoglu’s algorithm) 
 
 This project consists of three java files which needs to be present in a single folder:
 1) TMAN.java:- The main java class which performs the initialisation and execution phase 
